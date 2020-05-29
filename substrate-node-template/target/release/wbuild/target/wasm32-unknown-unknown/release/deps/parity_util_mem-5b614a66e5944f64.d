@@ -1,0 +1,10 @@
+/home/sriharikapu/substrate-node-template/target/release/wbuild/target/wasm32-unknown-unknown/release/deps/parity_util_mem-5b614a66e5944f64.rmeta: /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs
+
+/home/sriharikapu/substrate-node-template/target/release/wbuild/target/wasm32-unknown-unknown/release/deps/libparity_util_mem-5b614a66e5944f64.rlib: /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs
+
+/home/sriharikapu/substrate-node-template/target/release/wbuild/target/wasm32-unknown-unknown/release/deps/parity_util_mem-5b614a66e5944f64.d: /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs
+
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs:
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs:
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs:
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs:

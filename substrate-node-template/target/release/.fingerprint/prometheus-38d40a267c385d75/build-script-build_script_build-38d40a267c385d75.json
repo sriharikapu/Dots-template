@@ -1,0 +1,1 @@
+{"rustc":10461004854123552879,"features":"[\"default\", \"protobuf\"]","target":10429514197457385088,"profile":2574335274271406459,"path":13521154106459435960,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/prometheus-38d40a267c385d75/dep-build-script-build_script_build-38d40a267c385d75"}}],"rustflags":[],"metadata":8408051840959999518}

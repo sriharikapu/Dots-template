@@ -1,0 +1,10 @@
+/home/sriharikapu/substrate-node-template/target/release/deps/parity_util_mem-bb31557c478fc32d.rmeta: /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs
+
+/home/sriharikapu/substrate-node-template/target/release/deps/libparity_util_mem-bb31557c478fc32d.rlib: /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs
+
+/home/sriharikapu/substrate-node-template/target/release/deps/parity_util_mem-bb31557c478fc32d.d: /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs /home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs
+
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/lib.rs:
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/allocators.rs:
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/malloc_size.rs:
+/home/sriharikapu/.cargo/registry/src/github.com-1ecc6299db9ec823/parity-util-mem-0.6.1/src/primitives_impls.rs:

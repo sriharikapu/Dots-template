@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/sriharikapu/substrate-node-template/target/release/build/typenum-4d4ea3d99753e06f/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/sriharikapu/substrate-node-template/target/release/build/typenum-4d4ea3d99753e06f/out/op.rs

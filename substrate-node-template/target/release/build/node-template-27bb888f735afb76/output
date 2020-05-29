@@ -1,0 +1,4 @@
+cargo:rustc-env=SUBSTRATE_CLI_IMPL_VERSION=2.0.0-alpha.8-38058f3-x86_64-linux-gnu
+cargo:rerun-if-changed=/home/sriharikapu/substrate-node-template/.git/HEAD
+cargo:rerun-if-changed=/home/sriharikapu/substrate-node-template/.git/refs/heads/DUSD
+

@@ -1,0 +1,4 @@
+   Compiling wasm-build-runner-impl v1.0.0 (/home/sriharikapu/substrate-node-template/target/release/wbuild-runner/node-template-runtime3471546923164725939)
+    Finished release [optimized] target(s) in 3.42s
+     Running `/home/sriharikapu/substrate-node-template/target/release/wbuild-runner/node-template-runtime3471546923164725939/target/x86_64-unknown-linux-gnu/release/wasm-build-runner-impl`
+[0m[0m[1m[32m    Finished[0m release [optimized] target(s) in 3.25s
